@@ -321,7 +321,6 @@
                 
                 [bubbleView addItemAnimated:index animat:YES];
 
-              //  [arrSelectRestuID addObject:[NSNumber numberWithInteger:index]];
                 
             }
             else
