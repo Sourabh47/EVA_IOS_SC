@@ -1,0 +1,17 @@
+//
+//  EVA-Prefix.pch
+//  EVA
+//
+//  Created by SourabhBanerjee on 6/11/15.
+//  Copyright (c) 2015 47Billion. All rights reserved.
+//
+
+#ifndef EVA_EVA_Prefix_pch
+#define EVA_EVA_Prefix_pch
+#import "Constant.h"
+#import "APIConstant.h"
+#import "SettingPlist.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
